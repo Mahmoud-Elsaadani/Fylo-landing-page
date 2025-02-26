@@ -298,6 +298,7 @@ display: flex;
         width: 100% !important;
     }footer{
         padding-top: 4rem;
+        padding-bottom: 1rem;
     }
     .contact{
         padding: 4rem 2rem !important;
